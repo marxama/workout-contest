@@ -1,0 +1,45 @@
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 4%;
+}
+
+#bla {
+	font-weight: bold;
+}
+
+#header {
+	align: center;
+	padding-bottom: 50px;
+}
+
+#right {
+	width: 30%;
+	float: right;
+	padding-right: 10%;
+}
+
+#left {
+	width: 55%;
+	padding-right: 5%;
+	float: left;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#toplist {
+	margin: 0;
+	width: 100%;
+}
+
+#toplist td {
+	border-bottom: solid 1px black;
+}
+
+#awards {
+	border-collapse: separate;
+	border-spacing: 25px 10px;
+}
